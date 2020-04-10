@@ -2,7 +2,7 @@
 
 
 ## Overview
-"PocketEm" is an Ethereum manager from Pocket Science Software. PocketEm emphasizes keeping your Ethereum safe being accidentally lost, mis-spent, or otherwise made unrecoverable.
+"PocketEm" is an Ethereum manager which emphasizes keeping your Ethereum safe from being accidentally lost, misspent, or otherwise made unrecoverable.
 
 
 
